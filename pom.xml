@@ -95,19 +95,19 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.223.156.144:8081/repository/tesla31-releases/</url>
+	      <url>http://18.191.190.131:8081/repository/tesla31a-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.223.156.144:8081/repository/tesla31-snapshots/</url>
+	      <url>http://18.191.190.131:8081/repository/tesla31a-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla31</finalName>
+		<finalName>tesla31a</finalName>
 		
 		<plugins>
 			<plugin>
