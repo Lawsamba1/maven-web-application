@@ -95,19 +95,19 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.191.190.131:8081/repository/booksapp-releases/</url>
+	      <url>http://18.191.190.131:8081/repository/tesla31b-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.191.190.131:8081/repository/booksapp-snapshots/</url>
+	      <url>http://18.191.190.131:8081/repository/tesla31b-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>onlinebookstore</finalName>
+		<finalName>tesla31b</finalName>
 		
 		<plugins>
 			<plugin>
