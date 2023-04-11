@@ -95,19 +95,19 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.191.190.131:8081/repository/tesla31d-releases/</url>
+	      <url>http://18.117.223.197:8081/repository/tesla33-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.191.190.131:8081/repository/tesla31d-snapshots/</url>
+	      <url>http://18.117.223.197:8081/repository/Tesla33-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla31d</finalName>
+		<finalName>Tesla33</finalName>
 		
 		<plugins>
 			<plugin>
