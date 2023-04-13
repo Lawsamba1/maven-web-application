@@ -95,19 +95,19 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.117.223.197:8081/repository/tesla33-releases/</url>
+	      <url>http://3.138.141.38:8081/repository/paypal.1-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.117.223.197:8081/repository/Tesla33-snapshots/</url>
+	      <urlhttp://3.138.141.38:8081/repository/paypal.1-snapshots/></url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>Tesla33</finalName>
+		<finalName>Paypal.1</finalName>
 		
 		<plugins>
 			<plugin>
